@@ -9,8 +9,8 @@
 ## Sample3 - Built using Power BI for Insurance Client
 ![Sample3 - Built using Power BI for Insurance Client](./Sample3.png "Sample3 - Built using Power BI for Insurance Client")
 
-## Sample4 - Built using Power BI for Banking Client
-![Sample4 - Built using Power BI for Banking Client](./Sample4.png "Sample4 - Built using Power BI for Banking Client")
+## Sample4 - Built using Tableau for Banking Client
+![Sample4 - Built using Tableau for Banking Client](./Sample4.png "Sample4 - Built using Tableau for Banking Client")
 
 ## Sample5 - Built using Power BI for Insurance Client
 ![Sample5 - Built using Power BI for Insurance Client](./Sample5.png "Sample5 - Built using Power BI for Insurance Client")
