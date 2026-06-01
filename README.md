@@ -1,4 +1,4 @@
-# Below are the dashboards created in Power BI & Tableau while working with multiple global clients spanning from Banking, Insurance, Manufacturing, etc.
+# Dashboards created by Manish Kumar in Power BI & Tableau while working with multiple global clients spanning from Banking, Insurance, Manufacturing, etc.
 
 ## Sample1 - Built using Power BI for Manufacturing Client
 ![Sample1 - Built using Power BI for Manufacturing Client](./Sample1.png "Sample1 - Built using Power BI for Manufacturing Client")
