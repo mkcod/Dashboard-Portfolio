@@ -7,7 +7,10 @@
 ![Sample2 - Built using Power BI for Manufacturing Client](./Sample2.png "Sample2 - Built using Power BI for Manufacturing Client")
 
 ## Sample3 - Built using Power BI for Insurance Client
-![Sample3 - Built using Power BI for Manufacturing Client](./Sample3.png "Sample3 - Built using Power BI for Manufacturing Client")
+![Sample3 - Built using Power BI for Insurance Client](./Sample3.png "Sample3 - Built using Power BI for Insurance Client")
 
 ## Sample4 - Built using Power BI for Banking Client
-![Sample4 - Built using Power BI for Manufacturing Client](./Sample4.png "Sample4 - Built using Power BI for Manufacturing Client")
+![Sample4 - Built using Power BI for Banking Client](./Sample4.png "Sample4 - Built using Power BI for Banking Client")
+
+## Sample5 - Built using Power BI for Insurance Client
+![Sample5 - Built using Power BI for Insurance Client](./Sample5.png "Sample5 - Built using Power BI for Insurance Client")
